@@ -17,6 +17,7 @@ gem "just-the-docs", "0.4.0.rc3"
 group :jekyll_plugins do
   gem "jekyll-github-metadata"
   gem "jekyll-seo-tag"
+  gem 'jekyll-remote-theme'
   gem "kramdown"
   gem "jekyll-sitemap"
 end
